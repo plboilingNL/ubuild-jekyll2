@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2019/07/05/a0568b71441fe12f606780f7290236a0.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
